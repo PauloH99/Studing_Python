@@ -1,1 +1,2 @@
-print("Hello world") 
+print("Hello tayse")
+print("Creating new Magic - Haduken + 6")
